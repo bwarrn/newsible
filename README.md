@@ -69,4 +69,4 @@ Machine-readable endpoints are always linked directly from their canonical relea
 
 ## Crawl & Indexing
 
-- Public sitemap: https://rel
+- Public sitemap: https://releases.newsible.ai/sitemap.xml
