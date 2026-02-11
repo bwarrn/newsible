@@ -54,6 +54,19 @@ Comprehensive press kit covering design updates, technology features, safety sys
 
 ---
 
+### Nissan Formula E Team ready to battle it out under the lights in Jeddah
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-11/nissan-formula-e-team-ready-to-battle-it-out-under-the-light
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/f39e6522-c113-4bcf-a57b-458583a5735d
+
+**Description:**  
+Preview of Rounds 4 and 5 of the 2025/26 ABB FIA Formula E World Championship in Jeddah, highlighting Nissan Formula E Team’s double-header strategy, Pit Boost format changes, driver insights, and regional partnership with Electromin.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
