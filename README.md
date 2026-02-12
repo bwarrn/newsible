@@ -67,6 +67,19 @@ Preview of Rounds 4 and 5 of the 2025/26 ABB FIA Formula E World Championship in
 
 ---
 
+### Nissan records steady third-quarter progress and lifts FY2025 outlook
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-12/nissan-records-steady-third-quarter-progress-and-lifts-fy202
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/37e71bdd-572b-4821-b544-fcedd02ad7b7
+
+**Description:**  
+Nissan reports positive third-quarter operating profit of 17.5 billion yen, narrows year-to-date operating losses, raises its FY2025 operating profit outlook, and details progress under the Re:Nissan restructuring and cost-efficiency initiatives.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
