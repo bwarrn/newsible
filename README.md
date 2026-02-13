@@ -96,3 +96,11 @@ Machine-readable endpoints are always linked directly from their canonical relea
 ## Crawl & Indexing
 
 - Public sitemap: https://releases.newsible.ai/sitemap.xml
+
+
+## Latest Releases Feed
+
+- **Latest Releases Index (HTML):**  
+  https://releases.newsible.ai/releases-latest
+
+This endpoint always lists the most recent canonical releases and serves as a discovery surface for AI crawlers and search systems
