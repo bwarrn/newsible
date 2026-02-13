@@ -100,7 +100,6 @@ Machine-readable endpoints are always linked directly from their canonical relea
 
 ## Latest Releases Feed
 
-- **Latest Releases Index (HTML):**  
-  https://releases.newsible.ai/releases-latest
+- **Latest Releases Index (HTML):** https://releases.newsible.ai/releases-latest
 
 This endpoint always lists the most recent canonical releases and serves as a discovery surface for AI crawlers and search systems
