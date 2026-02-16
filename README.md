@@ -93,6 +93,19 @@ Nissan Formula E Team's Oliver Rowland clinched his third podium of the season i
 
 ---
 
+### 2026 Nissan LEAF named The Drive’s Best EV of 2026
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-16/2026-nissan-leaf-named-the-drives-best-ev-of-2026
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/a555f25e-93bb-4292-bc1a-da62f189fe34
+
+**Description:**  
+Nissan Formula E Team's Oliver Rowland clinched his third podium of the season in Round 5 of the 2025/26 ABB FIA Formula E World Championship in Jeddah, as the squad bounced back strongly from a tough first race of the double-header the day before.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
