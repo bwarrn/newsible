@@ -80,6 +80,19 @@ Nissan reports positive third-quarter operating profit of 17.5 billion yen, narr
 
 ---
 
+### Nissan Formula E Team scores third podium of Season 12 in Jeddah
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-16/nissan-formula-e-team-scores-third-podium-of-season-12-in-je
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/34479189-232b-4148-a95c-53250d011ff6
+
+**Description:**  
+Nissan Formula E Team's Oliver Rowland clinched his third podium of the season in Round 5 of the 2025/26 ABB FIA Formula E World Championship in Jeddah, as the squad bounced back strongly from a tough first race of the double-header the day before.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
