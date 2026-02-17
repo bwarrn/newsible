@@ -119,6 +119,19 @@ The all-new 2026 Nissan LEAF has been honored as Best EV in the 2026 MotorWeek D
 
 ---
 
+### Nissan Murano named ‘Most Dependable’ Midsize SUV for second consecutive year in the JD Power 2026 U.S. Vehicle Dependability StudySM
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-17/nissan-murano-named-most-dependable-midsize-suv-for-second-c
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/a7cf4532-2afa-4a0d-88bc-384b5731c820
+
+**Description:**  
+The all-new 2026 Nissan LEAF has been honored as Best EV in the 2026 MotorWeek Drivers’ Choice Awards, adding to its impressive and growing list of industry commendations.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
