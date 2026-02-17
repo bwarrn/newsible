@@ -106,6 +106,19 @@ Nissan Formula E Team's Oliver Rowland clinched his third podium of the season i
 
 ---
 
+### All-new 2026 Nissan LEAF wins 2026 MotorWeek Drivers’ Choice Award for Best EV
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-17/all-new-2026-nissan-leaf-wins-2026-motorweek-drivers-choice
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/4b5087fd-7978-433f-a807-eceb1785fcbe
+
+**Description:**  
+The all-new 2026 Nissan LEAF has been honored as Best EV in the 2026 MotorWeek Drivers’ Choice Awards, adding to its impressive and growing list of industry commendations.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
