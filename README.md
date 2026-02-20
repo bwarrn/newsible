@@ -132,6 +132,18 @@ The all-new 2026 Nissan LEAF has been honored as Best EV in the 2026 MotorWeek D
 
 ---
 
+### Toughness-tested: How Nissan Frontier’s V6 is engineered to endure the extreme
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-20/toughness-tested-how-nissan-frontiers-v6-is-engineered-to-en
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/29dc70de-372b-4c48-a433-d10ad7d148a4
+
+**Description:**  
+Stress-testing the V6 for the equivalent of 130,000 miles helps give owners confidence in their truck’s engine
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
