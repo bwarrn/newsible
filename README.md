@@ -142,6 +142,33 @@ The all-new 2026 Nissan LEAF has been honored as Best EV in the 2026 MotorWeek D
 
 **Description:**  
 Stress-testing the V6 for the equivalent of 130,000 miles helps give owners confidence in their truck’s engine
+
+---
+
+### TailorFit®: How Nissan designed premium seating that looks and feels like leather
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-24/tailorfit-how-nissan-designed-premium-seating-that-looks-and
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/8ef8f53c-b458-456e-a4bc-a185d3ba7dd2
+
+**Description:**  
+In the all-new 2026 Nissan Sentra SL, TailorFit® seating provides the premium look and feel of traditional leather with enhanced wrinkle resistance.
+
+---
+
+### Nissan named Best for Standard Assist & Safety Features in 2026 Parents Best Family Car Awards
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-02-24/nissan-named-best-for-standard-assist-safety-features-in-202
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/78b09483-3210-468e-8cb0-be19fbe0fe8c
+
+**Description:**  
+Nissan has been recognized by Parents with the award for Best Standard Assist & Safety Features as part of its 2026 Best Family Cars Awards.
+
 ---
 
 ## Publishing Model
