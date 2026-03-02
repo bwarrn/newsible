@@ -210,6 +210,19 @@ Nissan is proud to announce that it has received the iF Design Award for the Nis
 
 ---
 
+### Nissan Americas announces senior leadership changes
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-02/nissan-americas-announces-senior-leadership-changes
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/89b32fc7-27d7-4e20-91f0-562c2d458785
+
+**Description:**  
+Nissan announced that it is promoting Tim Gilbert to vice president, Dealer Network Development, Customer Resources and Training, Nissan and INFINITI, effective February.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
