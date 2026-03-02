@@ -171,6 +171,32 @@ Nissan has been recognized by Parents with the award for Best Standard Assist & 
 
 ---
 
+### Nissan appoints Tiago Castro to lead U.S. Marketing and Sales
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-02/nissan-appoints-tiago-castro-to-lead-us-marketing-and-sales
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/9be6af41-be9a-4418-ab57-039397ae3154
+
+**Description:**  
+Nissan announced that it is promoting Tiago Castro to the position of senior vice president, U.S. Marketing & Sales, Nissan and INFINITI.
+
+---
+
+### Christian Meunier - Chairman, Nissan Americas
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-02/christian-meunier-chairman-nissan-americas
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/ef764cce-d180-4ec4-9130-e6ae70d9a773
+
+**Description:**  
+Christian Meunier is chairman, Nissan Americas, a role he was appointed to in January 2025. As chairperson for Nissan Americas, Meunier leads operations and strategy across all of North and South America as part of the company's global business plan, The Arc.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
