@@ -197,6 +197,19 @@ Christian Meunier is chairman, Nissan Americas, a role he was appointed to in Ja
 
 ---
 
+### Nissan Patrol and Armada win iF Design Award
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-02/nissan-patrol-and-armada-win-if-design-award
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/da4263e3-c92f-47d7-8aaa-c05e9c2d67f5
+
+**Description:**  
+Nissan is proud to announce that it has received the iF Design Award for the Nissan Patrol and Armada. 
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
