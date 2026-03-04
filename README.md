@@ -223,6 +223,32 @@ Nissan announced that it is promoting Tim Gilbert to vice president, Dealer Netw
 
 ---
 
+### Brian Brockman - Vice President, Communications, Americas
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-03/brian-brockman-vice-president-communications-americas
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/03b2b262-d981-4b1b-aa52-2ee235165dc8
+
+**Description:**  
+Brian Brockman is vice president, Communications, Americas. In this role, Brockman is responsible for leading the communications function across the Americas to tell the brand's transformation story, protect corporate reputation and promote strong product messages to both internal and external audiences.
+
+---
+
+### Nissan’s U.S. industry-first Personalized Sound is like having music remastered just for you
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-04/nissans-us-industry-first-personalized-sound-is-like-having
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/b44c669c-7025-4500-aae4-7dc3c45e764f
+
+**Description:**  
+Nissan announced that it is promoting Tim Gilbert to vice president, Dealer Network Development, Customer Resources and Training, Nissan and INFINITI, effective February.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
