@@ -245,7 +245,19 @@ Brian Brockman is vice president, Communications, Americas. In this role, Brockm
   https://api.newsible.ai/releases/b44c669c-7025-4500-aae4-7dc3c45e764f
 
 **Description:**  
-Nissan announced that it is promoting Tim Gilbert to vice president, Dealer Network Development, Customer Resources and Training, Nissan and INFINITI, effective February.
+With the introduction of Personalized Sound, Nissan and INFINITI are elevating audio customization to a new level as the first automakers in the U.S. to offer a personalized audio profile based on each customer's unique hearing.
+---
+
+### Nissan’s new wireless smartphone charger fixes the biggest problems with in-car charging
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-06/nissans-new-wireless-smartphone-charger-fixes-the-biggest-pr
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/8d215f5d-8752-466e-9e53-eb149d496b45
+
+**Description:**  
+Nissan is the first automaker to offer Qi2 wireless charging in the U.S., starting with Pathfinder and Murano
 
 ---
 
