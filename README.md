@@ -261,6 +261,71 @@ Nissan is the first automaker to offer Qi2 wireless charging in the U.S., starti
 
 ---
 
+### New Nissan LEAF crowned Supreme Winner for 2026 by Women’s Worldwide Car of the Year
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-07/new-nissan-leaf-crowned-supreme-winner-for-2026-by-womens-wo
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/aaebf1f2-357c-489e-8cea-75f31a1e9a8b
+
+**Description:**  
+Accolade celebrates LEAF’s excellence in design, electric powertrain technology and everyday usability Awarded by an international jury and recognizes LEAF’s legacy as a global EV pioneer
+
+---
+
+### How communicating cars are helping Nissan ease traffic jams
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-08/how-communicating-cars-are-helping-nissan-ease-traffic-jams
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/d7d604e0-cf3b-4773-858a-d3411e4489a0
+
+**Description:**  
+In a trial with UC Berkeley and local government partners, Nissan is testing inter-car communication to help reduce congestion and enhance safety
+
+---
+
+### Ricardo Anguiano - Vice President, Manufacturing, Nissan Canton Vehicle Assembly Plant, Nissan U.S.
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-09/ricardo-anguiano-vice-president-manufacturing-nissan-canton
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/de8d648c-d2db-46ad-b170-82e8b1130818
+
+**Description:**  
+Ricardo Anguiano is vice president, manufacturing, Nissan Canton Vehicle Assembly Plant, Nissan U.S. 
+
+---
+
+### Z-proven, LEAF-tuned: How Nissan engineers apply ‘Nissan-ness’ across segments
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-09/z-proven-leaf-tuned-how-nissan-engineers-apply-nissan-ness-a
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/24c4bdf2-f04e-4a21-90b0-07b102fe34c1
+
+**Description:**  
+What makes a Nissan feel like a Nissan? Traits such as confident handling, everyday comfort and user-friendly technology are shared across the lineup.
+
+---
+
+### Nissan Armada PRO-4X named 2026 SUV of Texas
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-10/nissan-armada-pro-4x-named-2026-suv-of-texas
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/12d91171-c3a5-4877-8738-b7ff0654be60
+
+**Description:**  
+The 2026 Nissan Armada PRO-4X has been honored by the Texas Auto Writers Association (TAWA) being named the SUV of Texas following the group's annual Texas Truck Rodeo.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
