@@ -326,6 +326,18 @@ The 2026 Nissan Armada PRO-4X has been honored by the Texas Auto Writers Associa
 
 ---
 
+### All-new 2026 Nissan LEAF named one of Autotrader’s Best New Cars of 2026
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-12/all-new-2026-nissan-leaf-named-one-of-autotraders-best-new-c
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/9cd64e29-38b3-4f78-a8a8-90ee5bdfca8d
+
+**Description:**  
+Third-generation LEAF is recognized for innovation, value and accessible EV technology.
+
+---
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
