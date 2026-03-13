@@ -338,6 +338,19 @@ The 2026 Nissan Armada PRO-4X has been honored by the Texas Auto Writers Associa
 Third-generation LEAF is recognized for innovation, value and accessible EV technology.
 
 ---
+
+### Wayve, Uber and Nissan announce collaboration on Robotaxis
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-13/wayve-uber-and-nissan-announce-collaboration-on-robotaxis
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/a42ec64e-352c-4814-a197-443e8b0e5a1f
+
+**Description:**  
+Wayve, Uber and Nissan today announced the signing of a memorandum of understanding to collaborate on the development of robotaxis and commence activities to realize the deployment of robotaxi services.
+
+---
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
