@@ -364,6 +364,20 @@ Wayve, Uber and Nissan today announced the signing of a memorandum of understand
 Abbi Pulling and Victor Martins will form Nissan Formula E Team's line-up for the upcoming FIA Formula E Rookie Test at Circuito del Jarama on Sunday 22 March, which takes place after the inaugural Madrid E-Prix.
 
 ---
+
+### Wayve and Nissan to exhibit global robotaxi prototype vehicle powered by NVIDIA DRIVE Hyperion for Uber trials
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-16/wayve-and-nissan-to-exhibit-global-robotaxi-prototype-vehicl
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/6f9134e0-ee57-44fa-a89c-21e573ad6591
+
+**Description:**  
+Wayve and Nissan will exhibit a global robotaxi prototype vehicle at NVIDIA GTC 2026, built on the NVIDIA DRIVE Hyperion platform. 
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
