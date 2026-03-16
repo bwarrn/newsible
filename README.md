@@ -351,6 +351,19 @@ Third-generation LEAF is recognized for innovation, value and accessible EV tech
 Wayve, Uber and Nissan today announced the signing of a memorandum of understanding to collaborate on the development of robotaxis and commence activities to realize the deployment of robotaxi services.
 
 ---
+
+### Nissan Formula E Team to field Abbi Pulling and Victor Martins in Madrid Rookie Test
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-16/nissan-formula-e-team-to-field-abbi-pulling-and-victor-marti
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/6f9134e0-ee57-44fa-a89c-21e573ad6591
+
+**Description:**  
+Abbi Pulling and Victor Martins will form Nissan Formula E Team's line-up for the upcoming FIA Formula E Rookie Test at Circuito del Jarama on Sunday 22 March, which takes place after the inaugural Madrid E-Prix.
+
+---
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
