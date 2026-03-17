@@ -378,6 +378,58 @@ Wayve and Nissan will exhibit a global robotaxi prototype vehicle at NVIDIA GTC 
 
 ---
 
+### Nissan to introduce U.S.-built Murano to the Japanese market
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-17/nissan-to-introduce-us-built-murano-to-the-japanese-market
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/ce9923db-a022-4264-b012-54bb051ad635
+
+**Description:**  
+Nissan today announced that it will introduce the U.S.-built Murano to the Japanese market, with sales scheduled to begin in early 2027. 
+
+---
+
+### Nissan announces senior management changes
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-17/nissan-announces-senior-management-changes
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/ef011e97-2546-4645-91ba-9e0406e14e9b
+
+**Description:**  
+Nissan Motor Co., Ltd. today announced a leadership transition in its Chief Financial Officer role.
+
+---
+
+### Nissan nominates candidates for board of directors
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-17/nissan-nominates-candidates-for-board-of-directors
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/27bcd8f7-e861-4c91-8d90-c40f734d992d
+
+**Description:**  
+Nissan Motor Co., Ltd.'s Nomination Committee has selected candidates for the company's board of directors this month. These candidates will be proposed for appointment at the annual general meeting of stockholders scheduled for June.
+
+---
+
+### Nissan announces management appointments
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-17/nissan-announces-management-appointments
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/8dd4908d-2676-4beb-ba2a-29b46d7815d9
+
+**Description:**  
+Nissan today announced a series of organizational and leadership updates effective April.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
