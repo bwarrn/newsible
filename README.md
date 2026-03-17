@@ -430,6 +430,19 @@ Nissan today announced a series of organizational and leadership updates effecti
 
 ---
 
+### Nissan Americas announces senior leadership changes in Research & Development
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-17/nissan-americas-announces-senior-leadership-changes-in-resea
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/b5a1a33d-0b35-42de-a3c6-46fe84fe24f3
+
+**Description:**  
+Nissan is strengthening its Research & Development organization, Nissan Technical Center North America (NTCNA), with several key executive appointments. NTCNA plays a critical role in shaping Nissan's future in the Americas.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
