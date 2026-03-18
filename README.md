@@ -443,6 +443,19 @@ Nissan is strengthening its Research & Development organization, Nissan Technica
 
 ---
 
+### Nissan Formula E Team ready for debut Madrid race on series’ return to Spain
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-18/nissan-formula-e-team-ready-for-debut-madrid-race-on-series
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/4cbfb0fb-12a7-491d-9539-d2ce1747b8a3
+
+**Description:**  
+Nissan Formula E Team heads to Madrid for Round of the 2025/26 ABB FIA Formula E World Championship, as the series introduces its second new race venue of Season 12.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
