@@ -495,6 +495,19 @@ Vice President, Product Planning, Nissan U.S. and Canada
 
 ---
 
+### Nissan Formula E Team announces sponsorship agreement with Alpine Tech
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-20/nissan-formula-e-team-announces-sponsorship-agreement-with
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/d99c6684-bd47-4d0f-9743-a70c77ee94ab
+
+**Description:**  
+Nissan Formula E Team is delighted to announce a renewal of its sponsorship agreement with long-standing partner Alpine Tech for the remainder of Season 12 of the ABB FIA Formula E World Championship, to include branding on the Japanese outfit's racecars and drivers' overalls.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
