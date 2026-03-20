@@ -456,6 +456,45 @@ Nissan Formula E Team heads to Madrid for Round of the 2025/26 ABB FIA Formula E
 
 ---
 
+### Insights into the all-new third generation Nissan LEAF
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-19/insights-into-the-all-new-third-generation-nissan-leaf
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/19d63caa-875a-4a41-bf43-670df64d6103
+
+**Description:**  
+Learnings from 700,000 global Nissan LEAF sales informed development Sleek and bold with coefficient of drag of 0.26 for U.S. and Japan and 0.25 for Europe e-Dimming roof provides all-season comfort.
+
+---
+
+### NISSAN ENERGY Charge Network adds access to 17,800 Tesla Superchargers
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-19/nissan-energy-charge-network-adds-access-to-17800-tesla
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/0769a982-3e99-4e2a-b989-2133e1cfc532
+
+**Description:**  
+Nissan ARIYA drivers will gain access to Tesla’s Supercharger network beginning December 10 with Nissan-provided adapter available for order starting today
+
+---
+
+### Marco Fioravanti
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-19/marco-fioravanti
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/0015ef34-00c4-481a-95ad-1dc9e514e26f
+
+**Description:**  
+Vice President, Product Planning, Nissan U.S. and Canada
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
