@@ -979,6 +979,19 @@ Nissan Formula E Team is delighted to announce a renewal of its sponsorship agre
 
 ---
 
+### Frustrating Madrid E-Prix for Nissan Formula E Team
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-21/frustrating-madrid-e-prix-for-nissan-formula-e-team
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/d39d59af-096e-4de4-b9d2-240bcb234b70
+
+**Description:**  
+Rowland and Nato unable to convert solid qualifying performances into points
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
