@@ -15,7 +15,7 @@ These examples demonstrate how Newsible pairs human-readable newsroom content wi
 
 ---
 
-### Nissan Game Day Campaign – 2026 Rogue
+### Nissan brings ingenuity to game day snacking with new Rogue spot starring chef Matty Matheson
 
 - **Canonical release (HTML):**  
   https://releases.newsible.ai/2026-02-10/nissan-brings-ingenuity-to-game-day-snacking-with-new-rogue
@@ -28,7 +28,7 @@ Lighthearted social campaign uses humor to highlight how the 2026 Rogue is engin
 
 ---
 
-### 2026 Nissan Rogue Plug-in Hybrid Pricing Announcement
+### 2026 Nissan Rogue Plug-in Hybrid pricing starts at $45,990
 
 - **Canonical release (HTML):**  
   https://releases.newsible.ai/2026-02-10/2026-nissan-rogue-plug-in-hybrid-pricing-starts-at-45990
@@ -41,7 +41,7 @@ Pricing and product details for the 2026 Nissan Rogue Plug-in Hybrid, including 
 
 ---
 
-### Press Kit: 2026.5 Nissan Rogue
+### Press Kit:  2026.5 Nissan Rogue
 
 - **Canonical press kit (HTML):**  
   https://releases.newsible.ai/2026-02-10/press-kit-20265-nissan-rogue
@@ -353,6 +353,19 @@ Wayve, Uber and Nissan today announced the signing of a memorandum of understand
 
 ---
 
+### New Patrol NISMO will serve as a First Rescue Operation vehicle for upcoming Super GT season
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-15/new-patrol-nismo-will-serve-as-a-first-rescue-operation-vehi
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/96884d3e-cb98-4495-bb98-22f7f1773c23
+
+**Description:**  
+Nissan Motor Co., Ltd and Nissan Motorsports & Customizing Co., Ltd. (NMC) announced today that the new Patrol NISMO will serve as a First Rescue Operation (FRO) vehicle in the 2026 season of the Super GT series.
+
+---
+
 ### Nissan Formula E Team to field Abbi Pulling and Victor Martins in Madrid Rookie Test
 
 - **Canonical release (HTML):**  
@@ -506,6 +519,32 @@ Vice President, Product Planning, Nissan U.S. and Canada
 
 **Description:**  
 Nissan Formula E Team is delighted to announce a renewal of its sponsorship agreement with long-standing partner Alpine Tech for the remainder of Season 12 of the ABB FIA Formula E World Championship, to include branding on the Japanese outfit's racecars and drivers' overalls.
+
+---
+
+### Frustrating Madrid E-Prix for Nissan Formula E Team
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-21/frustrating-madrid-e-prix-for-nissan-formula-e-team
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/d39d59af-096e-4de4-b9d2-240bcb234b70
+
+**Description:**  
+Rowland and Nato unable to convert solid qualifying performances into points
+
+---
+
+### Nissan Formula E Team completes positive Rookie Test in Madrid
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-22/nissan-formula-e-team-completes-positive-rookie-test-in
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/6d612769-8746-472a-8f1b-e1f533baea12
+
+**Description:**  
+Nissan Formula E Team completed a positive Rookie Test in Madrid, with both simulator and development driver Abbi Pulling and Alpine Racing driver Victor Martins setting strong lap times.
 
 ---
 
