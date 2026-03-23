@@ -992,6 +992,19 @@ Rowland and Nato unable to convert solid qualifying performances into points
 
 ---
 
+### Nissan Formula E Team completes positive Rookie Test in Madrid
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-22/nissan-formula-e-team-completes-positive-rookie-test-in
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/6d612769-8746-472a-8f1b-e1f533baea12
+
+**Description:**  
+Nissan Formula E Team completed a positive Rookie Test in Madrid, with both simulator and development driver Abbi Pulling and Alpine Racing driver Victor Martins setting strong lap times.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
