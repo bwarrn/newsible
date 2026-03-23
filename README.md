@@ -548,6 +548,19 @@ Nissan Formula E Team completed a positive Rookie Test in Madrid, with both simu
 
 ---
 
+### The icon, elevated: New 2027 Nissan Z gets fresh design, handling improvements and a manual NISMO
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-23/the-icon-elevated-new-2027-nissan-z-gets-fresh-design
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/01d2b936-c503-4111-b791-322516872abe
+
+**Description:**  
+Z NISMO with manual transmission will make its North American debut at the New York International Auto Show next week
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
