@@ -561,6 +561,19 @@ Z NISMO with manual transmission will make its North American debut at the New Y
 
 ---
 
+### Four Nissan models recognized in latest IIHS Safety rankings
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-24/four-nissan-models-recognized-in-latest-iihs-safety-rankings
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/62357136-c6eb-4895-bd48-c9decb79f8ef
+
+**Description:**  
+2026 Sentra, Murano, Pathfinder earn TOP SAFETY PICK+ rating; Armada named TOP SAFETY PICK
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
