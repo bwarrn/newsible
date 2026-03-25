@@ -574,6 +574,18 @@ Z NISMO with manual transmission will make its North American debut at the New Y
 
 ---
 
+### Nissan launches Eco School with Mississippi Children’s Museum ahead of Earth Hour
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-25/nissan-launches-eco-school-with-mississippi-childrens
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/96014d30-46f2-439c-b6e3-ae16bdeeefda
+
+**Description:**  
+The Nissan Sustainability team today launched an educational program called Nissan Eco School at the Mississippi Children's Museum in Jackson, Mississippi. 
+
+---
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
