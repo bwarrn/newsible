@@ -586,6 +586,33 @@ Z NISMO with manual transmission will make its North American debut at the New Y
 The Nissan Sustainability team today launched an educational program called Nissan Eco School at the Mississippi Children's Museum in Jackson, Mississippi. 
 
 ---
+
+### Nissan appoints Jay Cooney to lead Communications for the Americas
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-26/nissan-appoints-jay-cooney-to-lead-communications-for-the
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/aeba0c54-fe28-48c5-91bd-104bdf77e4df
+
+**Description:**  
+Nissan today announced the appointment of Jay Cooney as vice president, Regional Communications, Nissan Americas, effective March 30.
+
+---
+
+### AI Communications Governance
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-26/ai-communications-governance
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/6090b80c-b4bf-4864-a3b3-7d0b7ad5ccb1
+
+**Description:**  
+A framework for managing your organization’s official record in a machine-mediated information environment.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
