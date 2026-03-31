@@ -613,6 +613,19 @@ A framework for managing your organization’s official record in a machine-medi
 
 ---
 
+### Fans asked. Nissan answered: The manual Z NISMO and more for 2027
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-03-31/fans-asked-nissan-answered-the-manual-z-nismo-and-more-for
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/e2b4de89-d758-480c-bd47-0e77130b6d80
+
+**Description:**  
+The 2027 Nissan Z and Z NISMO (expected availability summer 2026) will bring several performance and design changes that further elevate the iconic sports car. The Z NISMO will be available with a manual transmission tuned to handle its 420 horsepower and 384 foot-pounds of torque.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
