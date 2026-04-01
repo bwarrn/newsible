@@ -626,6 +626,19 @@ The 2027 Nissan Z and Z NISMO (expected availability summer 2026) will bring sev
 
 ---
 
+### Fans asked. Nissan answered: The manual Z NISMO and more for 2027
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-01/the-next-chapter-of-nissans-electrification-story-begins
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/c74fff0d-e31b-401c-8862-eac3d05ada8a
+
+**Description:**  
+The next chapter of Nissan's electrification story begins this year, as the all‑new 2027 Rogue Hybrid e‑POWER 1 (expected availability late 2026) delivers smooth commutes, a fun driving experience and the year-round confidence of all-wheel drive.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
