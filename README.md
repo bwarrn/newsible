@@ -639,6 +639,32 @@ The next chapter of Nissan's electrification story begins this year, as the allâ
 
 ---
 
+### Nissan Group announces U.S. first quarter 2026 sales
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-02/nissan-group-announces-us-first-quarter-2026-sales
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/410b93e1-9a90-4c1e-bf4c-a94bc5831d18
+
+**Description:**  
+Nissan Group announced total U.S. first quarter (January through March) sales for 2026 of 247,068 units, a decrease of 7.5% versus the prior year, while retail sales increased 9.6%, supported by a disciplined strategy, increasing sales of U.S.-built vehicles.
+
+---
+
+### Jay Cooney
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-05/jay-cooney
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/e8818a87-7720-4615-833f-f4311bb43c36
+
+**Description:**  
+Jay Cooney is vice president, Regional Communications, Nissan Americas. In this role, he leads the communications function across the region, shaping the companyâ€™s transformation narrative, protecting corporate reputation and promoting compelling product stories to internal and external audiences.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
