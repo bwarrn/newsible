@@ -665,6 +665,45 @@ Jay Cooney is vice president, Regional Communications, Nissan Americas. In this 
 
 ---
 
+### Nissan revealed the new 2026 Nissan Pathfinder today with a bold design and enhanced technologies
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-05/nissan-revealed-the-new-2026-nissan-pathfinder-today-with-a
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/c7d4221c-8297-4123-bf60-06c350e8fccc
+
+**Description:**  
+Proudly assembled in the U.S. since 2004, Pathfinder continues to empower families to explore more, connect more and do more of what they love. The refreshed Pathfinder is an integral step in the Re:Nissan recovery plan, contributing to a revitalized product portfolio with an exciting, diverse vehicle lineup and a relentless focus on customer satisfaction.
+
+---
+
+### Tennessee Titans and Nissan Introduce Nissan 1960 Club at New Nissan Stadium
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-06/tennessee-titans-and-nissan-introduce-nissan-1960-club-at
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/21b93fdc-3683-4881-a06d-d3dfba11e76e
+
+**Description:**  
+As the new Nissan Stadium nears its February 2027 completion date, the Tennessee Titans and Nissan officially introduce and share renderings of one of its premium clubs – the Nissan 1960 Club. Named for the year Bud Adams founded the franchise and Nissan Motor Corporation was established in the United States, the club features nods to the storied history of both organizations.
+
+---
+
+### 2026 Murano Features and Specifications
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-06/2026-murano-features-and-specifications
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/4605a6c1-cba4-425e-a68c-37f99c91846f
+
+**Description:**  
+The 2026 Murano will feature ProPILOT Assist 2.11 for hands-off freeway driving in the Platinum Technology package, and the SL Comfort package will include ventilated, massaging front seats, heated rear seats, and a motion-activated power liftgate.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
