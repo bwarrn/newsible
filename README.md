@@ -704,6 +704,19 @@ The 2026 Murano will feature ProPILOT Assist 2.11 for hands-off freeway driving 
 
 ---
 
+### Nissan Vehicles Earn Cars.com Best Value New Cars Awards
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-07/nissan-vehicles-earn-carscom-best-value-new-cars-awards
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/92a0b397-9b57-4dcc-b8de-ad62d88fffa6
+
+**Description:**  
+Nissan continues to deliver strong value across its lineup, with three vehicles earning awards in Cars.com 2026 Best Value New Cars awards.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
