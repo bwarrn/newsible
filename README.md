@@ -717,6 +717,32 @@ Nissan continues to deliver strong value across its lineup, with three vehicles 
 
 ---
 
+### The 2026 Nissan Armada benefits from more than 40 years of performance expertise with the introduction of the model’s first-ever NISMO grade.
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-10/the-2026-nissan-armada-benefits-from-more-than-40-years-of
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/8e4221d0-0fef-4238-886d-3f9fe968ede1
+
+**Description:**  
+The 2026 Nissan Armada benefits from more than 40 years of performance expertise with the introduction of the model’s first-ever NISMO grade. Armada NISMO injects even more distinctive style and handling enhancements to Nissan’s highly capable full-size SUV, delivering an exciting everyday drive.
+
+---
+
+### Nissan announces key leadership appointment for NMAC
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-10/nissan-announces-key-leadership-appointment-for-nmac
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/5f617c3c-71d2-4bb9-8a41-6dcc6d0eaba5
+
+**Description:**  
+Nissan has announced a key leadership appointment for Nissan Motor Acceptance Company (NMAC) to further enhance strategy, operations and performance for the vehicle financing organization. Jack Crowley has been appointed vice president, NMAC Sales and Marketing, effective April, and will report directly to Kevin Cullum, NMAC president.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
