@@ -743,6 +743,32 @@ Nissan has announced a key leadership appointment for Nissan Motor Acceptance Co
 
 ---
 
+### 2026 Nissan LEAF Earns Three Buzz Awards, Including "Car of the Year"
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-13/2026-nissan-leaf-earns-three-buzz-awards-including-car-of
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/c411bba4-fc96-46cb-90b6-2d0ee077fab1
+
+**Description:**  
+The all-new, fully electric 2026 Nissan LEAF has earned three major wins in the first-ever Buzz Awards, presented by CarBuzz, HotCars and TopSpeed. The LEAF was named "Car of the Year" and claimed titles for "Best EV" and "Best Budget Vehicle" for 2026.
+
+---
+
+### All-new 2027 Rogue Hybrid e-POWER previewed at Vision event ahead of U.S. and Canada launch in late 2026
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-14/all-new-2027-rogue-hybrid-e-power-previewed-at-vision-event
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/34f96059-4fa1-416c-800d-1ab3c2936cfc
+
+**Description:**  
+Nissan has revealed two major product announcements at its global Vision event: the all-new 2027 Rogue Hybrid e-POWER, targeting a late 2026 launch in the U.S. and Canada, and the confirmed return of the Xterra as a U.S.-produced body-on-frame SUV slated for late 2028.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
