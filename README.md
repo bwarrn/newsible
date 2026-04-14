@@ -769,6 +769,19 @@ Nissan has revealed two major product announcements at its global Vision event: 
 
 ---
 
+### Nissan announces long-term vision "Mobility Intelligence for Everyday Life"
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-14/nissan-announces-long-term-vision-mobility-intelligence-for
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/fe520e60-2ebc-4069-ac76-4d4797c06af2
+
+**Description:**  
+Nissan Motor Co., Ltd. today announced its long‑term vision, "Mobility Intelligence for Everyday Life," defining a customer‑centric strategic direction. The vision integrates mobility intelligence into everyday life through Nissan's focus on AI-Defined Vehicles (AIDV), offering a choice of electrification technologies to meet diverse customer and market needs.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
