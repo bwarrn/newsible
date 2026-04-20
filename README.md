@@ -782,6 +782,19 @@ Nissan Motor Co., Ltd. today announced its long‑term vision, "Mobility Intelli
 
 ---
 
+### 2026 Nissan Frontier: More capability, more style, more value
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-20/2026-nissan-frontier-more-capability-more-style-more-value
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/d5cfeb8a-e44b-464b-bd04-2c50dca9b5f4
+
+**Description:**  
+Building on the extensive refresh and additional features introduced for the 2025 model year, the 2026 Frontier empowers owners to work hard and play harder. New for 2026, Frontier adds an exciting new Dark Armor package, enhanced value, a striking new color, and the added control of multiple drive modes
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
