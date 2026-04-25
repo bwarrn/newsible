@@ -795,6 +795,32 @@ Building on the extensive refresh and additional features introduced for the 202
 
 ---
 
+### All-new 2026 Nissan LEAF named Winner in U.S. News 2026 Best Hybrid and Electric Car Awards
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-22/all-new-2026-nissan-leaf-named-winner-in-us-news-2026-best
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/c5ae89b2-b470-41e2-8240-8159423e2990
+
+**Description:**  
+The all-new 2026 Nissan LEAF has been named as the Best Subcompact Electric SUV for 2026 in U.S. News 2026 Best Hybrid and Electric Car Awards. The U.S. News Best Hybrid and Electric Car Awards recognize standout electric and electrified vehicles through a fully objective evaluation process.
+
+---
+
+### 20 Million Engines Strong: Nissan Marks Major Milestone at Decherd Powertrain Plant
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-23/20-million-engines-strong-nissan-marks-major-milestone-at-2
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/35144460-7687-4239-b6f3-a821a4ac06f8
+
+**Description:**  
+Nissan’s Decherd Powertrain Plant reached a major milestone with the assembly of its 20 millionth engine, a VQ-ZV9 V-6 for Nissan Frontier, marking nearly three decades of manufacturing excellence and commitment to the Tennessee and Franklin County communities.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
