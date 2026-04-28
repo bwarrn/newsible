@@ -821,6 +821,19 @@ Nissan’s Decherd Powertrain Plant reached a major milestone with the assembly 
 
 ---
 
+### Nissan Formula E Team heads to Tempelhof Airport Street Circuit for Rounds and of 2025/26 ABB FIA Formula E World Championship
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-04-28/nissan-formula-e-team-heads-to-tempelhof-airport-street
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/3650e7aa-156f-4fd0-8db7-32f203516e60
+
+**Description:**  
+Nissan Formula E Team heads to the popular Tempelhof Airport Street Circuit this weekend to contest Rounds and of the 2025/26 ABB FIA Formula E World Championship, following a six-week break.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
