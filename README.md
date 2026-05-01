@@ -834,6 +834,19 @@ Nissan Formula E Team heads to the popular Tempelhof Airport Street Circuit this
 
 ---
 
+### The INFINITI Brand
+
+- **Canonical release (HTML):**  
+  https://releases.newsible.ai/2026-05-01/the-infiniti-brand
+
+- **Machine-readable JSON-LD:**  
+  https://api.newsible.ai/releases/738c5c27-9f78-4717-bc0b-068a515f8f63
+
+**Description:**  
+INFINITI challenges conventional ideas of what a luxury brand should be. That's our purpose, north star, and the "why" in every decision we make. INFINITI seeks to question, to pivot, to rebel in big and little ways — in everything we do.
+
+---
+
 ## Publishing Model
 
 Newsible is designed around a clear separation of concerns:
